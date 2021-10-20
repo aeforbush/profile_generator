@@ -27,8 +27,7 @@ Profile generator is designed to create employee badges from the command-line.  
 
 ## Video Preview
 
-
-
+https://www.icloud.com/iclouddrive/0Np9bC24EFsLApQ06x4zj5gQQ#profile_generator_mov
 
 
 ## Deployed Link
